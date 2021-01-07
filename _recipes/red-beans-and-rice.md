@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Red Beans & Rice"
-image: pork-steak.jpg
+image: red-beans-and-rice.jpg
 tags: rice, sausage, creole, spicy
 
 ingredients:
