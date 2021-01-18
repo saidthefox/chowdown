@@ -1,2 +1,2 @@
 FROM gregyankovoy/chowdown
-COPY . /app/config
+COPY . /config
