@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Instant Pot Ribs"
-image: ribs.jpg
+image: instant-pot-ribs.jpg
 tags: main, pork, bones, bbq
 
 ingredients:
