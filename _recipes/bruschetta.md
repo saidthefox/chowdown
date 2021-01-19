@@ -30,4 +30,4 @@ directions:
 
 ---
 
-A go-to classic that's super easy to make and always delicious.
+A go-to classic that's super easy to make and always delicious. Perfect for a hot summer day or as a side dish at a pot-luck (if we ever get to do that again D:)
