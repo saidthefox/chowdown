@@ -3,7 +3,6 @@
 layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
-imagecredit: https://flic.kr/p/7HZmzn
 tags: breakfast, baking
 
 ingredients:
@@ -25,4 +24,4 @@ directions:
 
 ---
 
-From Angie's mom
+From Miguel
