@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Tilapia & Lemon-Caper Sauce"
-image: tilapia-lemon-caper.jpg
+image: tilapia-lemon-caper.jfif
 tags: seafood, summer
 
 ingredients:
